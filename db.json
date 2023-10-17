@@ -1,0 +1,1154 @@
+[
+  {
+    "Verb": "Suru",
+    "Kanji": "する",
+    "English Meaning": "to do",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "します (Shimasu)",
+      "Casual Present/Future Affirmative": "する (Suru)",
+      "Past Affirmative": "しました (Shimashita)",
+      "Casual Past Affirmative": "した (Shita)",
+      "TE Form": "して (Shite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "しません (Shimasen)",
+      "Casual Present/Future Negative": "しない (Shinai)",
+      "Past Negative": "しませんでした (Shimasen deshita)",
+      "Casual Past Negative": "しなかった (Shinakatta)",
+      "TE Form": "しなくて (Shinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "したい (Shitai)",
+      "Casual Conditional": "したら (Shitara)"
+    }
+  },
+  {
+    "Verb": "Aru",
+    "Kanji": "ある",
+    "English Meaning": "to be (unanimated object)",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "あります (Arimasu)",
+      "Casual Present/Future Affirmative": "ある (Aru)",
+      "Past Affirmative": "ありました (Arimashita)",
+      "Casual Past Affirmative": "あった (Atta)",
+      "TE Form": "あって (Atte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "ありません (Arimasen)",
+      "Casual Present/Future Negative": "ない (Nai)",
+      "Past Negative": "ありませんでした (Arimasen deshita)",
+      "Casual Past Negative": "なかった (Nakatta)",
+      "TE Form": "なくて (Nakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "ありたい (Aritai)",
+      "Casual Conditional": "あったら (Attara)"
+    }
+  }
+  ,
+  {
+    "Verb": "Iru",
+    "Kanji": "いる",
+    "English Meaning": "to be (alive object)",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "います (Imasu)",
+      "Casual Present/Future Affirmative": "いる (Iru)",
+      "Past Affirmative": "いました (Imashita)",
+      "Casual Past Affirmative": "いた (Ita)",
+      "TE Form": "いて (Ite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "いません (Imasen)",
+      "Casual Present/Future Negative": "いない (Inai)",
+      "Past Negative": "いませんでした (Imasen deshita)",
+      "Casual Past Negative": "いなかった (Inakatta)",
+      "TE Form": "いなくて (Inakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "いたい (Itai)",
+      "Casual Conditional": "いったら (Ittara)"
+    }
+  },
+  {
+    "Verb": "Iku",
+    "Kanji": "行く",
+    "English Meaning": "to go",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "行きます (Ikimasu)",
+      "Casual Present/Future Affirmative": "行く (Iku)",
+      "Past Affirmative": "行きました (Ikimashita)",
+      "Casual Past Affirmative": "行った (Itta)",
+      "TE Form": "行って (Itte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "行きません (Ikimasen)",
+      "Casual Present/Future Negative": "行かない (Ikanai)",
+      "Past Negative": "行きませんでした (Ikimasen deshita)",
+      "Casual Past Negative": "行かなかった (Ikanakatta)",
+      "TE Form": "行かなくて (Ikanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "行きたい (Ikitai)",
+      "Casual Conditional": "行ったら (Ittara)"
+    }
+  },
+  {
+    "Verb": "Kuru",
+    "Kanji": "来る",
+    "English Meaning": "to come",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "来ます (Kimasu)",
+      "Casual Present/Future Affirmative": "来る (Kuru)",
+      "Past Affirmative": "来ました (Kimashita)",
+      "Casual Past Affirmative": "来た (Kita)",
+      "TE Form": "来て (Kite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "来ません (Kimasen)",
+      "Casual Present/Future Negative": "来ない (Kanai)",
+      "Past Negative": "来ませんでした (Kimasen deshita)",
+      "Casual Past Negative": "来なかった (Kanakatta)",
+      "TE Form": "来なくて (Kanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "来たい (Kita",
+      "Casual Conditional": "来ったら (Kittara)"
+    }
+  },
+  {
+    "Verb": "Iu",
+    "Kanji": "言う",
+    "English Meaning": "to say",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "言います (Iimasu)",
+      "Casual Present/Future Affirmative": "言う (Iu)",
+      "Past Affirmative": "言いました (Iimashita)",
+      "Casual Past Affirmative": "言った (Itta)",
+      "TE Form": "言って (Itte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "言いません (Iimasen)",
+      "Casual Present/Future Negative": "言わない (Iwanai)",
+      "Past Negative": "言いませんでした (Iimasen deshita)",
+      "Casual Past Negative": "言わなかった (Iwanakatta)",
+      "TE Form": "言わなくて (Iwanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "言いたい (Iitai)",
+      "Casual Conditional": "言ったら (Ittara)"
+    }
+  },
+  {
+    "Verb": "Ageru",
+    "Kanji": "あげる",
+    "English Meaning": "to give",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "あげます (Agemasu)",
+      "Casual Present/Future Affirmative": "あげる (Ageru)",
+      "Past Affirmative": "あげました (Agemashita)",
+      "Casual Past Affirmative": "あげた (Ageta)",
+      "TE Form": "あげて (Agete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "あげません (Agemasen)",
+      "Casual Present/Future Negative": "あげない (Agenai)",
+      "Past Negative": "あげませんでした (Agemasen deshita)",
+      "Casual Past Negative": "あげなかった (Agenakatta)",
+      "TE Form": "あげなくて (Agenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "あげたい (Agetai)",
+      "Casual Conditional": "あげたら (Agattara)"
+    }
+  },
+  {
+    "Verb": "Kureru",
+    "Kanji": "くれる",
+    "English Meaning": "to receive",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "くれます (Kuremasu)",
+      "Casual Present/Future Affirmative": "くれる (Kureru)",
+      "Past Affirmative": "くれました (Kuremashita)",
+      "Casual Past Affirmative": "くれた (Kureta)",
+      "TE Form": "くれて (Kurete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "くれません (Kuremasen)",
+      "Casual Present/Future Negative": "くれない (Kurenai)",
+      "Past Negative": "くれませんでした (Kuremasen deshita)",
+      "Casual Past Negative": "くれなかった (Kurenakatta)",
+      "TE Form": "くれなくて (Kurenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "くれたい (Kuretai)",
+      "Casual Conditional": "くれったら (Kurettara)"
+    }
+  },
+  {
+    "Verb": "Miru",
+    "Kanji": "見る",
+    "English Meaning": "to look",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "見ます (Mimasu)",
+      "Casual Present/Future Affirmative": "見る (Miru)",
+      "Past Affirmative": "見ました (Mimashita)",
+      "Casual Past Affirmative": "見た (Mita)",
+      "TE Form": "見て (Mite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "見ません (Mimasen)",
+      "Casual Present/Future Negative": "見ない (Minai)",
+      "Past Negative": "見ませんでした (Mimasen deshita)",
+      "Casual Past Negative": "見なかった (Minakatta)",
+      "TE Form": "見なくて (Minakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "見たい (Mitai)",
+      "Casual Conditional": "見たら (Mittara)"
+    }
+  },
+  {
+    "Verb": "Aruku",
+    "Kanji": "歩く",
+    "English Meaning": "to walk",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "歩きます (Arukimasu)",
+      "Casual Present/Future Affirmative": "歩く (Aruku)",
+      "Past Affirmative": "歩きました (Arukimashita)",
+      "Casual Past Affirmative": "歩いた (Aruita)",
+      "TE Form": "歩いて (Aruite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "歩きません (Arukimasen)",
+      "Casual Present/Future Negative": "歩かない (Arukanai)",
+      "Past Negative": "歩きませんでした (Arukimasen deshita)",
+      "Casual Past Negative": "歩かなかった (Arukanakatta)",
+      "TE Form": "歩かなくて (Arukanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "歩きたい (Arukitai)",
+      "Casual Conditional": "歩いたら (Arukitara)"
+    }
+  },
+  {
+    "Verb": "Taberu",
+    "Kanji": "食べる",
+    "English Meaning": "to eat",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "食べます (Tabemasu)",
+      "Casual Present/Future Affirmative": "食べる (Taberu)",
+      "Past Affirmative": "食べました (Tabemashita)",
+      "Casual Past Affirmative": "食べた (Tabeta)",
+      "TE Form": "食べて (Tabete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "食べません (Tabemasen)",
+      "Casual Present/Future Negative": "食べない (Tabenai)",
+      "Past Negative": "食べませんでした (Tabemasen deshita)",
+      "Casual Past Negative": "食べなかった (Tabenakatta)",
+      "TE Form": "食べなくて (Tabenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "食べたい (Tabetai)",
+      "Casual Conditional": "食べたら (Tabetara)"
+    }
+  },
+  {
+    "Verb": "Nomu",
+    "Kanji": "飲む",
+    "English Meaning": "to drink",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "飲みます (Nomimasu)",
+      "Casual Present/Future Affirmative": "飲む (Nomu)",
+      "Past Affirmative": "飲みました (Nomimashita)",
+      "Casual Past Affirmative": "飲んだ (Nonda)",
+      "TE Form": "飲んで (Nonde)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "飲みません (Nomimasen)",
+      "Casual Present/Future Negative": "飲まない (Nomanai)",
+      "Past Negative": "飲みませんでした (Nomimasen deshita)",
+      "Casual Past Negative": "飲まなかった (Nomanakatta)",
+      "TE Form": "飲まなくて (Nomanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "飲みたい (Nomitai)",
+      "Casual Conditional": "飲んだら (Nondara)"
+    }
+  },
+  {
+    "Verb": "Kiru",
+    "Kanji": "着る",
+    "English Meaning": "to wear",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "着ます (Kimasu)",
+      "Casual Present/Future Affirmative": "着る (Kiru)",
+      "Past Affirmative": "着ました (Kimashita)",
+      "Casual Past Affirmative": "着た (Kita)",
+      "TE Form": "着て (Kite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "着ません (Kimasen)",
+      "Casual Present/Future Negative": "着ない (Kinai)",
+      "Past Negative": "着ませんでした (Kimasen deshita)",
+      "Casual Past Negative": "着なかった (Kinakatta)",
+      "TE Form": "着なくて (Kinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "着たい (Kitai)",
+      "Casual Conditional": "着たら (Kittara)"
+    }
+  },
+
+  {
+    "Verb": "Nugu",
+    "Kanji": "脱ぐ",
+    "English Meaning": "to take off, to remove",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "脱ぎます (Nugimasu)",
+      "Casual Present/Future Affirmative": "脱ぐ (Nugu)",
+      "Past Affirmative": "脱ぎました (Nugimashita)",
+      "Casual Past Affirmative": "脱いだ (Nuida)",
+      "TE Form": "脱いで (Nuide)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "脱ぎません (Nugimasen)",
+      "Casual Present/Future Negative": "脱がない (Nuganai)",
+      "Past Negative": "脱ぎませんでした (Nugimasen deshita)",
+      "Casual Past Negative": "脱がなかった (Nuganakatta)",
+      "TE Form": "脱がなくて (Nuganakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "脱ぎたい (Nugitai)",
+      "Casual Conditional": "脱いだら (Nuidara)"
+    }
+  },
+  {
+    "Verb": "Neru",
+    "Kanji": "寝る",
+    "English Meaning": "to sleep",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "寝ます (Nemasu)",
+      "Casual Present/Future Affirmative": "寝る (Neru)",
+      "Past Affirmative": "寝ました (Nemashita)",
+      "Casual Past Affirmative": "寝た (Neta)",
+      "TE Form": "寝て (Nete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "寝ません (Nemasen)",
+      "Casual Present/Future Negative": "寝ない (Nenai)",
+      "Past Negative": "寝ませんでした (Nemasen deshita)",
+      "Casual Past Negative": "寝なかった (Nenakatta)",
+      "TE Form": "寝なくて (Nenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "寝たい (Netai)",
+      "Casual Conditional": "寝たら (Netara)"
+    }
+  },
+  {
+    "Verb": "Okiru",
+    "Kanji": "起きる",
+    "English Meaning": "to wake up, to get up",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "起きます (Okimasu)",
+      "Casual Present/Future Affirmative": "起きる (Okiru)",
+      "Past Affirmative": "起きました (Okimashita)",
+      "Casual Past Affirmative": "起きた (Okita)",
+      "TE Form": "起きて (Okite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "起きません (Okimasen)",
+      "Casual Present/Future Negative": "起きない (Okinai)",
+      "Past Negative": "起きませんでした (Okimasen deshita)",
+      "Casual Past Negative": "起きなかった (Okinakatta)",
+      "TE Form": "起きなくて (Okinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "起きたい (Okitai)",
+      "Casual Conditional": "起きたら (Okitara)"
+    }
+  },
+  {
+    "Verb": "Yasumu",
+    "Kanji": "休む",
+    "English Meaning": "to rest, to take a break",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "休みます (Yasumimasu)",
+      "Casual Present/Future Affirmative": "休む (Yasumu)",
+      "Past Affirmative": "休みました (Yasumimashita)",
+      "Casual Past Affirmative": "休んだ (Yasunda)",
+      "TE Form": "休んで (Yasunde)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "休みません (Yasumimasen)",
+      "Casual Present/Future Negative": "休まない (Yasumanai)",
+      "Past Negative": "休みませんでした (Yasumimasen deshita)",
+      "Casual Past Negative": "休まなかった (Yasumanakatta)",
+      "TE Form": "休まなくて (Yasumanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "休みたい (Yasumitai)",
+      "Casual Conditional": "休んだら (Yasundara)"
+    }
+  },
+  {
+    "Verb": "Benkyou",
+    "Kanji": "勉強",
+    "English Meaning": "to study",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "勉強をします (Benkyou wo shimasu)",
+      "Casual Present/Future Affirmative": "勉強をする (Benkyou wo suru)",
+      "Past Affirmative": "勉強をしました (Benkyou wo shimashita)",
+      "Casual Past Affirmative": "勉強をした (Benkyou wo shita)",
+      "TE Form": "勉強をして (Benkyou wo shite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "勉強をしません (Benkyou wo shimasen)",
+      "Casual Present/Future Negative": "勉強をしない (Benkyou wo shinai)",
+      "Past Negative": "勉強をしませんでした (Benkyou wo shimasen deshita)",
+      "Casual Past Negative": "勉強をしなかった (Benkyou wo shinakatta)",
+      "TE Form": "勉強をしなくて (Benkyou wo shinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "勉強をしたい (Benkyou wo shitai)",
+      "Casual Conditional": "勉強をしたら (Benkyou wo shitara)"
+    }
+  },
+  {
+    "Verb": "Oshieru",
+    "Kanji": "教える",
+    "English Meaning": "to teach",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "教えます (Oshiemasu)",
+      "Casual Present/Future Affirmative": "教える (Oshieru)",
+      "Past Affirmative": "教えました (Oshiemashita)",
+      "Casual Past Affirmative": "教えた (Oshieta)",
+      "TE Form": "教えて (Oshiete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "教えません (Oshiemasen)",
+      "Casual Present/Future Negative": "教えない (Oshienai)",
+      "Past Negative": "教えませんでした (Oshiemasen deshita)",
+      "Casual Past Negative": "教えなかった (Oshienakatta)",
+      "TE Form": "教えなくて (Oshienakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "教えたい (Oshietai)",
+      "Casual Conditional": "教えたら (Oshietara)"
+    }
+  },
+  {
+    "Verb": "Kiku",
+    "Kanji": "聞く",
+    "English Meaning": "to listen",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "聞きます (Kikimasu)",
+      "Casual Present/Future Affirmative": "聞く (Kiku)",
+      "Past Affirmative": "聞きました (Kikimashita)",
+      "Casual Past Affirmative": "聞いた (Kiita)",
+      "TE Form": "聞いて (Kiite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "聞きません (Kikimasen)",
+      "Casual Present/Future Negative": "聞かない (Kikanai)",
+      "Past Negative": "聞きませんでした (Kikimasen deshita)",
+      "Casual Past Negative": "聞かなかった (Kikanakatta)",
+      "TE Form": "聞かなくて (Kikanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "聞きたい (Kikitai)",
+      "Casual Conditional": "聞いたら (Kiitara)"
+    }
+  },
+  {
+    "Verb": "Yomu",
+    "Kanji": "読む",
+    "English Meaning": "to read",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "読みます (Yomimasu)",
+      "Casual Present/Future Affirmative": "読む (Yomu)",
+      "Past Affirmative": "読みました (Yomimashita)",
+      "Casual Past Affirmative": "読んだ (Yonda)",
+      "TE Form": "読んで (Yonde)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "読みません (Yomimasen)",
+      "Casual Present/Future Negative": "読まない (Yomanai)",
+      "Past Negative": "読みませんでした (Yomimasen deshita)",
+      "Casual Past Negative": "読まなかった (Yomanakatta)",
+      "TE Form": "読まなくて (Yomanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "読みたい (Yomitai)",
+      "Casual Conditional": "読んだら (Yondara)"
+    }
+  },
+  {
+    "Verb": "Kaku",
+    "Kanji": "書く",
+    "English Meaning": "to write",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "書きます (Kakimasu)",
+      "Casual Present/Future Affirmative": "書く (Kaku)",
+      "Past Affirmative": "書きました (Kakimashita)",
+      "Casual Past Affirmative": "書いた (Kaita)",
+      "TE Form": "書いて (Kaite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "書きません (Kakimasen)",
+      "Casual Present/Future Negative": "書かない (Kakanai)",
+      "Past Negative": "書きませんでした (Kakimasen deshita)",
+      "Casual Past Negative": "書かなかった (Kakanakatta)",
+      "TE Form": "書かなくて (Kakanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "書きたい (Kakitai)",
+      "Casual Conditional": "書いたら (Kaitara)"
+    }
+  },
+  {
+    "Verb": "Hanasu",
+    "Kanji": "話す",
+    "English Meaning": "to talk",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "話します (Hanasimasu)",
+      "Casual Present/Future Affirmative": "話す (Hanasu)",
+      "Past Affirmative": "話しました (Hanasimashita)",
+      "Casual Past Affirmative": "話した (Hanashita)",
+      "TE Form": "話して (Hanashite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "話しません (Hanasimasen)",
+      "Casual Present/Future Negative": "話さない (Hanasanai)",
+      "Past Negative": "話しませんでした (Hanasimasen deshita)",
+      "Casual Past Negative": "話さなかった (Hanasanakatta)",
+      "TE Form": "話さなくて (Hanasanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "話したい (Hanashitai)",
+      "Casual Conditional": "話したら (Hanashitara)"
+    }
+  },
+  {
+    "Verb": "Warau",
+    "Kanji": "笑う",
+    "English Meaning": "to laugh",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "笑います (Waraimasu)",
+      "Casual Present/Future Affirmative": "笑う (Warau)",
+      "Past Affirmative": "笑いました (Waraimashita)",
+      "Casual Past Affirmative": "笑った (Waratta)",
+      "TE Form": "笑って (Waratte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "笑いません (Waraimasen)",
+      "Casual Present/Future Negative": "笑わない (Warawanai)",
+      "Past Negative": "笑いませんでした (Waraimasen deshita)",
+      "Casual Past Negative": "笑わなかった (Warawanakatta)",
+      "TE Form": "笑わなくて (Warawanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "笑いたい (Waraitai)",
+      "Casual Conditional": "笑ったら (Warattara)"
+    }
+  },
+  {
+    "Verb": "Matsu",
+    "Kanji": "待つ",
+    "English Meaning": "to wait",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "待ちます (Machimasu)",
+      "Casual Present/Future Affirmative": "待つ (Matsu)",
+      "Past Affirmative": "待ちました (Machimashita)",
+      "Casual Past Affirmative": "待った (Matta)",
+      "TE Form": "待って (Matte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "待ちません (Machimasen)",
+      "Casual Present/Future Negative": "待たない (Matanai)",
+      "Past Negative": "待ちませんでした (Machimasen deshita)",
+      "Casual Past Negative": "待たなかった (Matanakatta)",
+      "TE Form": "待たなくて (Matanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "待ちたい (Machitai)",
+      "Casual Conditional": "待ったら (Mattara)"
+    }
+  },
+  {
+    "Verb": "Au",
+    "Kanji": "会う",
+    "English Meaning": "to meet, to encounter",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "会います (Aimasu)",
+      "Casual Present/Future Affirmative": "会う (Au)",
+      "Past Affirmative": "会いました (Aimashita)",
+      "Casual Past Affirmative": "会った (Atta)",
+      "TE Form": "会って (Atte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "会いません (Aimasen)",
+      "Casual Present/Future Negative": "会わない (Awanai)",
+      "Past Negative": "会いませんでした (Aimasen deshita)",
+      "Casual Past Negative": "会わなかった (Awanakatta)",
+      "TE Form": "会わなくて (Awanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "会いたい (Aitai)",
+      "Casual Conditional": "会ったら (Attara)"
+    }
+  },
+  {
+    "Verb": "Wakaru",
+    "Kanji": "分かる",
+    "English Meaning": "to understand",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "分かります (Wakarimasu)",
+      "Casual Present/Future Affirmative": "分かる (Wakaru)",
+      "Past Affirmative": "分かりました (Wakarimashita)",
+      "Casual Past Affirmative": "分かった (Wakatta)",
+      "TE Form": "分かって (Wakatte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "分かりません (Wakarimasen)",
+      "Casual Present/Future Negative": "分からない (Wakaranai)",
+      "Past Negative": "分かりませんでした (Wakarimasen deshita)",
+      "Casual Past Negative": "分からなかった (Wakaranakatta)",
+      "TE Form": "分からなくて (Wakaranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "分かりたい (Wakaritai)",
+      "Casual Conditional": "分かったら (Wakattara)"
+    }
+  },
+  {
+    "Verb": "Shiru",
+    "Kanji": "知る",
+    "English Meaning": "to know",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "知ります (Shirimasu)",
+      "Casual Present/Future Affirmative": "知る (Shiru)",
+      "Past Affirmative": "知りました (Shirimashita)",
+      "Casual Past Affirmative": "知った (Shitta)",
+      "TE Form": "知って (Shitte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "知りません (Shirimasen)",
+      "Casual Present/Future Negative": "知らない (Shiranai)",
+      "Past Negative": "知りませんでした (Shirimasen deshita)",
+      "Casual Past Negative": "知らなかった (Shiranakatta)",
+      "TE Form": "知らなくて (Shiranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "知りたい (Shiritai)",
+      "Casual Conditional": "知ったら (Shittara)"
+    }
+  },
+  {
+    "Verb": "Kangaeru",
+    "Kanji": "考える",
+    "English Meaning": "to think",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "かんがえます (Kangaemasu)",
+      "Casual Present/Future Affirmative": "かんがえる (Kangaeru)",
+      "Past Affirmative": "かんがえました (Kangaemashita)",
+      "Casual Past Affirmative": "かんがえた (Kangaeta)",
+      "TE Form": "かんがえて (Kangaete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "かんがえません (Kangaemasen)",
+      "Casual Present/Future Negative": "かんがえない (Kangaenai)",
+      "Past Negative": "かんがえませんでした (Kangaemasen deshita)",
+      "Casual Past Negative": "かんがえなかった (Kangaenakatta)",
+      "TE Form": "かんがえなくて (Kangaenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "かんがえたい (Kangaetai)",
+      "Casual Conditional": "かんがえたら (Kangaetara)"
+    }
+  },
+  {
+    "Verb": "Tsukuru",
+    "Kanji": "作る",
+    "English Meaning": "to make",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "つくります (Tsukurimasu)",
+      "Casual Present/Future Affirmative": "つくる (Tsukuru)",
+      "Past Affirmative": "つくりました (Tsukurimashita)",
+      "Casual Past Affirmative": "つくった (Tsukutta)",
+      "TE Form": "つくって (Tsukutte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "つくりません (Tsukurimasen)",
+      "Casual Present/Future Negative": "つくらない (Tsukuranai)",
+      "Past Negative": "つくりませんでした (Tsukurimasen deshita)",
+      "Casual Past Negative": "つくらなかった (Tsukuranakatta)",
+      "TE Form": "つくらなくて (Tsukuranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "つくりたい (Tsukuritai)",
+      "Casual Conditional": "つくったら (Tsukuttara)"
+    }
+  },
+  {
+    "Verb": "Kau",
+    "Kanji": "買う",
+    "English Meaning": "to buy",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "かいます (Kaimasu)",
+      "Casual Present/Future Affirmative": "かう (Kau)",
+      "Past Affirmative": "かいました (Kaimashita)",
+      "Casual Past Affirmative": "かった (Katta)",
+      "TE Form": "かって (Katte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "かいません (Kaimasen)",
+      "Casual Present/Future Negative": "かわない (Kawanai)",
+      "Past Negative": "かいませんでした (Kaimasen deshita)",
+      "Casual Past Negative": "かわなかった (Kawanakatta)",
+      "TE Form": "かわなくて (Kawanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "かいたい (Kaitai)",
+      "Casual Conditional": "かったら (Kattara)"
+    }
+  },
+  {
+    "Verb": "Uru",
+    "Kanji": "売る",
+    "English Meaning": "to sell",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "うります (Urimasu)",
+      "Casual Present/Future Affirmative": "うる (Uru)",
+      "Past Affirmative": "うりました (Urimashita)",
+      "Casual Past Affirmative": "うった (Utta)",
+      "TE Form": "うって (Utte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "うりません (Urimasen)",
+      "Casual Present/Future Negative": "うらない (Uranai)",
+      "Past Negative": "うりませんでした (Urimasen deshita)",
+      "Casual Past Negative": "うらなかった (Uranakatta)",
+      "TE Form": "うらなくて (Uranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "うりたい (Uritai)",
+      "Casual Conditional": "うったら (Uttara)"
+    }
+  },
+  {
+    "Verb": "Motsu",
+    "Kanji": "持つ",
+    "English Meaning": "to hold or carry",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "もちます (Mochimasu)",
+      "Casual Present/Future Affirmative": "もつ (Motsu)",
+      "Past Affirmative": "もちました (Mochimashita)",
+      "Casual Past Affirmative": "もった (Motta)",
+      "TE Form": "もって (Motte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "もちません (Mochimasen)",
+      "Casual Present/Future Negative": "もたない (Motanai)",
+      "Past Negative": "もちませんでした (Mochimasen deshita)",
+      "Casual Past Negative": "もたなかった (Motanakatta)",
+      "TE Form": "もたなくて (Motanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "もちたい (Mochitai)",
+      "Casual Conditional": "もったら (Mottara)"
+    }
+  },
+  {
+    "Verb": "Wasureru",
+    "Kanji": "忘れる",
+    "English Meaning": "to forget",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "わすれます (Wasuremasu)",
+      "Casual Present/Future Affirmative": "わすれる (Wasureru)",
+      "Past Affirmative": "わすれました (Wasuremashita)",
+      "Casual Past Affirmative": "わすれた (Wasureta)",
+      "TE Form": "わすれて (Wasurete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "わすれません (Wasuremasen)",
+      "Casual Present/Future Negative": "わすれない (Wasurenai)",
+      "Past Negative": "わすれませんでした (Wasuremasen deshita)",
+      "Casual Past Negative": "わすれなかった (Wasurenakatta)",
+      "TE Form": "わすれなくて (Wasurenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "わすれたい (Wasuretai)",
+      "Casual Conditional": "わすれたら (Wasuretara)"
+    }
+  },
+  {
+    "Verb": "Hajimeru",
+    "Kanji": "始める",
+    "English Meaning": "to begin",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "はじめます (Hajimemasu)",
+      "Casual Present/Future Affirmative": "はじめる (Hajimeru)",
+      "Past Affirmative": "はじめました (Hajimemashita)",
+      "Casual Past Affirmative": "はじめた (Hajimeta)",
+      "TE Form": "はじめて (Hajimete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "はじめません (Hajimemasen)",
+      "Casual Present/Future Negative": "はじめない (Hajimenai)",
+      "Past Negative": "はじめませんでした (Hajimemasen deshita)",
+      "Casual Past Negative": "はじめなかった (Hajimenakatta)",
+      "TE Form": "はじめなくて (Hajimenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "はじめたい (Hajimetai)",
+      "Casual Conditional": "はじめたら (Hajimetara)"
+    }
+  },
+  {
+    "Verb": "Owaru",
+    "Kanji": "終わる",
+    "English Meaning": "to finish",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "おわります (Owarimasu)",
+      "Casual Present/Future Affirmative": "おわる (Owaru)",
+      "Past Affirmative": "おわりました (Owarimashita)",
+      "Casual Past Affirmative": "おわった (Owatta)",
+      "TE Form": "おわって (Owatte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "おわりません (Owarimasen)",
+      "Casual Present/Future Negative": "おわらない (Owaranai)",
+      "Past Negative": "おわりませんでした (Owarimasen deshita)",
+      "Casual Past Negative": "おわらなかった (Owaranakatta)",
+      "TE Form": "おわらなくて (Owaranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "おわりたい (Owaritai)",
+      "Casual Conditional": "おわったら (Owattara)"
+    }
+  },
+  {
+    "Verb": "Hairu",
+    "Kanji": "入る",
+    "English Meaning": "to enter",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "はいります (Hairimasu)",
+      "Casual Present/Future Affirmative": "はいる (Hairu)",
+      "Past Affirmative": "はいりました (Hairimashita)",
+      "Casual Past Affirmative": "はいった (Haitta)",
+      "TE Form": "はいって (Haitte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "はいりません (Hairimasen)",
+      "Casual Present/Future Negative": "はいらない (Hairanai)",
+      "Past Negative": "はいりませんでした (Hairimasen deshita)",
+      "Casual Past Negative": "はいらなかった (Hairanakatta)",
+      "TE Form": "はいらなくて (Hairanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "はいりたい (Hairitai)",
+      "Casual Conditional": "はいったら (Haittara)"
+    }
+  },
+  {
+    "Verb": "Deru",
+    "Kanji": "出る",
+    "English Meaning": "to exit",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "でります (Derimasu)",
+      "Casual Present/Future Affirmative": "でる (Deru)",
+      "Past Affirmative": "でりました (Derimashita)",
+      "Casual Past Affirmative": "でった (Detta)",
+      "TE Form": "でって (Dette)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "でりません (Derimasen)",
+      "Casual Present/Future Negative": "でらない (Deranai)",
+      "Past Negative": "でりませんでした (Derimasen deshita)",
+      "Casual Past Negative": "でらなかった (Deranakatta)",
+      "TE Form": "でらなくて (Deranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "でりたい (Deritai)",
+      "Casual Conditional": "でったら (Dettara)"
+    }
+  },
+  {
+    "Verb": "Ireru",
+    "Kanji": "入れる",
+    "English Meaning": "to insert or put in",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "いれます (Iremasu)",
+      "Casual Present/Future Affirmative": "いれる (Ireru)",
+      "Past Affirmative": "いれました (Iremashita)",
+      "Casual Past Affirmative": "いれた (Ireta)",
+      "TE Form": "いれて (Irete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "いれません (Iremasen)",
+      "Casual Present/Future Negative": "いれない (Irenai)",
+      "Past Negative": "いれませんでした (Iremasen deshita)",
+      "Casual Past Negative": "いれなかった (Irenakatta)",
+      "TE Form": "いれなくて (Irenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "いれたい (Iretai)",
+      "Casual Conditional": "いれたら (Iretara)"
+    }
+  },
+  {
+    "Verb": "Dasu",
+    "Kanji": "出す",
+    "English Meaning": "to remove or take out",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "だします (Dasimasu)",
+      "Casual Present/Future Affirmative": "だす (Dasu)",
+      "Past Affirmative": "だしました (Dashimashita)",
+      "Casual Past Affirmative": "だした (Dashita)",
+      "TE Form": "だして (Dashite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "だしません (Dasimasen)",
+      "Casual Present/Future Negative": "ださない (Dasanai)",
+      "Past Negative": "だしませんでした (Dasimasen deshita)",
+      "Casual Past Negative": "ださなかった (Dasanakatta)",
+      "TE Form": "ださなくて (Dasanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "だしたい (Dashitai)",
+      "Casual Conditional": "だしたら (Dashitara)"
+    }
+  },
+  {
+    "Verb": "Noriru",
+    "Kanji": "乗りる",
+    "English Meaning": "to ride or board",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "のります (Norimasu)",
+      "Casual Present/Future Affirmative": "のる (Noru)",
+      "Past Affirmative": "のりました (Norimashita)",
+      "Casual Past Affirmative": "のった (Notta)",
+      "TE Form": "のって (Notte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "のりません (Norimasen)",
+      "Casual Present/Future Negative": "のらない (Noranai)",
+      "Past Negative": "のりませんでした (Norimasen deshita)",
+      "Casual Past Negative": "のらなかった (Noranakatta)",
+      "TE Form": "のらなくて (Noranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "のりたい (Noritai)",
+      "Casual Conditional": "のったら (Nottara)"
+    }
+  },
+  {
+    "Verb": "Oriru",
+    "Kanji": "降りる",
+    "English Meaning": "to get off or descend",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "おります (Orimasu)",
+      "Casual Present/Future Affirmative": "おりる (Oriru)",
+      "Past Affirmative": "おりました (Orimashita)",
+      "Casual Past Affirmative": "おりた (Orita)",
+      "TE Form": "おりて (Orite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "おりません (Orimasen)",
+      "Casual Present/Future Negative": "おりない (Orinai)",
+      "Past Negative": "おりませんでした (Orimasen deshita)",
+      "Casual Past Negative": "おりなかった (Orinakatta)",
+      "TE Form": "おりなくて (Orinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "おりたい (Oritai)",
+      "Casual Conditional": "おりたら (Oritara)"
+    }
+  },
+  {
+    "Verb": "Akeru",
+    "Kanji": "開ける",
+    "English Meaning": "to open",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "あけます (Akemasu)",
+      "Casual Present/Future Affirmative": "あける (Akeru)",
+      "Past Affirmative": "あけました (Akemashita)",
+      "Casual Past Affirmative": "あけた (Aketa)",
+      "TE Form": "あけて (Akete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "あけません (Akemasen)",
+      "Casual Present/Future Negative": "あけない (Akenai)",
+      "Past Negative": "あけませんでした (Akemasen deshita)",
+      "Casual Past Negative": "あけなかった (Akenakatta)",
+      "TE Form": "あけなくて (Akenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "あけたい (Akeitai)",
+      "Casual Conditional": "あけたら (Aketara)"
+    }
+  },
+  {
+    "Verb": "Shimeru",
+    "Kanji": "閉める",
+    "English Meaning": "to close",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "しめます (Shimemasu)",
+      "Casual Present/Future Affirmative": "しめる (Shimeru)",
+      "Past Affirmative": "しめました (Shimemashita)",
+      "Casual Past Affirmative": "しめた (Shimeta)",
+      "TE Form": "しめて (Shimete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "しめません (Shimemasen)",
+      "Casual Present/Future Negative": "しめない (Shimenai)",
+      "Past Negative": "しめませんでした (Shimemasen deshita)",
+      "Casual Past Negative": "しめなかった (Shimenakatta)",
+      "TE Form": "しめなくて (Shimenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "しめたい (Shimetai)",
+      "Casual Conditional": "しめたら (Shimetara)"
+    }
+  },
+  {
+    "Verb": "Tsuku",
+    "Kanji": "点く",
+    "English Meaning": "to light",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "つきます (Tsukimasu)",
+      "Casual Present/Future Affirmative": "つく (Tsuku)",
+      "Past Affirmative": "つきました (Tsukimashita)",
+      "Casual Past Affirmative": "ついた (Tsuita)",
+      "TE Form": "ついて (Tsuite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "つきません (Tsukimasen)",
+      "Casual Present/Future Negative": "つかない (Tsukanai)",
+      "Past Negative": "つきませんでした (Tsukimasen deshita)",
+      "Casual Past Negative": "つかなかった (Tsukanakatta)",
+      "TE Form": "つかなくて (Tsukanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "つきたい (Tsukitai)",
+      "Casual Conditional": "ついたら (Tsuitara)"
+    }
+  },
+  {
+    "Verb": "Kesu",
+    "Kanji": "消す",
+    "English Meaning": "to turn off (light, fire)",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "けします (Keshimasu)",
+      "Casual Present/Future Affirmative": "けす (Kesu)",
+      "Past Affirmative": "けしました (Keshimashita)",
+      "Casual Past Affirmative": "けした (Keshita)",
+      "TE Form": "けして (Keshite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "けしません (Keshimasen)",
+      "Casual Present/Future Negative": "けさない (Kesanai)",
+      "Past Negative": "けしませんでした (Keshimasen deshita)",
+      "Casual Past Negative": "けさなかった (Kesanakatta)",
+      "TE Form": "けさなくて (Kesanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "けしたい (Keshitai)",
+      "Casual Conditional": "けしたら (Keshitara)"
+    }
+  },
+  {
+    "Verb": "Tatsu",
+    "Kanji": "立つ",
+    "English Meaning": "to stand up",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "たちます (Tachimasu)",
+      "Casual Present/Future Affirmative": "たつ (Tatsu)",
+      "Past Affirmative": "たちました (Tachimashita)",
+      "Casual Past Affirmative": "たった (Tatta)",
+      "TE Form": "たって (Tatte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "たちません (Tachimasen)",
+      "Casual Present/Future Negative": "たたない (Tatanai)",
+      "Past Negative": "たちませんでした (Tachimasen deshita)",
+      "Casual Past Negative": "たたなかった (Tatanakatta)",
+      "TE Form": "たたなくて (Tatanakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "たちたい (Tachitai)",
+      "Casual Conditional": "たったら (Tattara)"
+    }
+  },
+  {
+    "Verb": "Suwaru",
+    "Kanji": "座る",
+    "English Meaning": "to sit down",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "すわります (Suwarimasu)",
+      "Casual Present/Future Affirmative": "すわる (Suwaru)",
+      "Past Affirmative": "すわりました (Suwarimashita)",
+      "Casual Past Affirmative": "すわった (Suwatta)",
+      "TE Form": "すわって (Suwatte)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "すわりません (Suwarimasen)",
+      "Casual Present/Future Negative": "すわらない (Suwaranai)",
+      "Past Negative": "すわりませんでした (Suwarimasen deshita)",
+      "Casual Past Negative": "すわらなかった (Suwaranakatta)",
+      "TE Form": "すわらなくて (Suwaranakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "すわりたい (Suwaritai)",
+      "Casual Conditional": "すわったら (Suwattara)"
+    }
+  },
+  {
+    "Verb": "Dekiru",
+    "Kanji": "出来る",
+    "English Meaning": "to be able to, can",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "できます (Dekimasu)",
+      "Casual Present/Future Affirmative": "できる (Dekiru)",
+      "Past Affirmative": "できました (Dekimashita)",
+      "Casual Past Affirmative": "できた (Dekita)",
+      "TE Form": "できて (Dekite)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "できません (Dekimasen)",
+      "Casual Present/Future Negative": "できない (Dekinai)",
+      "Past Negative": "できませんでした (Dekimasen deshita)",
+      "Casual Past Negative": "できなかった (Dekinakatta)",
+      "TE Form": "できなくて (Dekinakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "できたい (Dekitai)",
+      "Casual Conditional": "できたら (Dekitara)"
+    }
+  },
+  {
+    "Verb": "Obaeru",
+    "Kanji": "覚える",
+    "English Meaning": "to remember",
+    "Positive Tenses": {
+      "Present/Future Affirmative": "おぼえます (Oboemasu)",
+      "Casual Present/Future Affirmative": "おぼえる (Oboeru)",
+      "Past Affirmative": "おぼえました (Oboemashita)",
+      "Casual Past Affirmative": "おぼえた (Oboeta)",
+      "TE Form": "おぼえて (Oboete)"
+    },
+    "Negative Tenses": {
+      "Present/Future Negative": "おぼえません (Oboemasen)",
+      "Casual Present/Future Negative": "おぼえない (Oboenai)",
+      "Past Negative": "おぼえませんでした (Oboemasen deshita)",
+      "Casual Past Negative": "おぼえなかった (Oboenakatta)",
+      "TE Form": "おぼえなくて (Oboenakute)"
+    },
+    "Extra Conjugations": {
+      "Present/Future TAI Affirmative": "おぼえたい (Oboetai)",
+      "Casual Conditional": "おぼえたら (Oboetara)"
+    }
+  }  
+]
